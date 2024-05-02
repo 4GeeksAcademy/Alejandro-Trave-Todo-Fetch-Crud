@@ -1,12 +1,40 @@
+input{
+    background-color: rgb(238, 238, 247);
+    border: none;
+    outline: none;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.background {
+    background-color: lavender;
+    height: 100vh;
+    width: 100vw; 
+}
+.title{
+    color: rgb(161, 161, 211);
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.foot{
+    background-color: rgb(238, 238, 247);
+    color: rgb(161, 161, 211);
+    font-size: 12px;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+.todos{
+    background-color: rgb(238, 238, 247);
+    border: none;
+    outline: none;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.item{
+    text-align: left;
+}
+.erase{
+    font-size: 20px;
+    color: rgb(161, 161, 211);
+    cursor: pointer;
 
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+}
