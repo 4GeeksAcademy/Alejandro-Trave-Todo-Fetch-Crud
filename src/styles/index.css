@@ -38,3 +38,12 @@ input{
     cursor: pointer;
 
 }
+
+.edit{
+    font-size: 15px;
+    margin-top: 20px;
+    color: rgb(161, 161, 211);
+    cursor: pointer;
+}
+
+
